@@ -49,7 +49,7 @@
       },
       {
         "displayText": "DrawerLayoutAndroid",
-        "snippet": "DrawerLayoutAndroid$1>\n</DrawerLayoutAndroid>",
+        "snippet": "DrawerLayoutAndroid>$1</DrawerLayoutAndroid>",
         "type": "tag",
         "rightLabelHTML": "react-native"
       },
@@ -73,7 +73,7 @@
       },
       {
         "displayText": "Modal",
-        "snippet": "Modal$1>\n</Modal>",
+        "snippet": "Modal>$1</Modal>",
         "type": "tag",
         "rightLabelHTML": "react-native"
       },
@@ -91,13 +91,13 @@
       },
       {
         "displayText": "Picker",
-        "snippet": "Picker$1>\n</Picker>",
+        "snippet": "Picker>$1</Picker>",
         "type": "tag",
         "rightLabelHTML": "react-native"
       },
       {
         "displayText": "PickerIOS",
-        "snippet": "PickerIOS$1>\n</PickerIOS>",
+        "snippet": "PickerIOS>$1</PickerIOS>",
         "type": "tag",
         "rightLabelHTML": "react-native"
       },
@@ -115,13 +115,13 @@
       },
       {
         "displayText": "RefreshControl",
-        "snippet": "RefreshControl$1>\n</RefreshControl>",
+        "snippet": "RefreshControl>$1</RefreshControl>",
         "type": "tag",
         "rightLabelHTML": "react-native"
       },
       {
         "displayText": "ScrollView",
-        "snippet": "ScrollView$1>\n</ScrollView>",
+        "snippet": "ScrollView>$1</ScrollView>",
         "type": "tag",
         "rightLabelHTML": "react-native"
       },
@@ -133,7 +133,7 @@
       },
       {
         "displayText": "Slider",
-        "snippet": "Slider$1>\n</Slider>",
+        "snippet": "Slider>$1</Slider>",
         "type": "tag",
         "rightLabelHTML": "react-native"
       },
@@ -145,31 +145,31 @@
       },
       {
         "displayText": "StatusBar",
-        "snippet": "StatusBar$1>\n</StatusBar>",
+        "snippet": "StatusBar>$1</StatusBar>",
         "type": "tag",
         "rightLabelHTML": "react-native"
       },
       {
         "displayText": "Switch",
-        "snippet": "Switch$1>\n</Switch>",
+        "snippet": "Switch>$1</Switch>",
         "type": "tag",
         "rightLabelHTML": "react-native"
       },
       {
         "displayText": "TabBarIOS",
-        "snippet": "TabBarIOS$1>\n</TabBarIOS>",
+        "snippet": "TabBarIOS>$1</TabBarIOS>",
         "type": "tag",
         "rightLabelHTML": "react-native"
       },
       {
         "displayText": "TabBarIOS.Item",
-        "snippet": "TabBarIOS.Item$1>\n</TabBarIOS.Item>",
+        "snippet": "TabBarIOS.Item>$1</TabBarIOS.Item>",
         "type": "tag",
         "rightLabelHTML": "react-native"
       },
       {
         "displayText": "Text",
-        "snippet": "Text$1>\n</Text>",
+        "snippet": "Text>$1</Text>",
         "type": "tag",
         "rightLabelHTML": "react-native"
       },
@@ -187,37 +187,37 @@
       },
       {
         "displayText": "TouchableHighlight",
-        "snippet": "TouchableHighlight$1>\n</TouchableHighlight>",
+        "snippet": "TouchableHighlight>$1</TouchableHighlight>",
         "type": "tag",
         "rightLabelHTML": "react-native"
       },
       {
         "displayText": "TouchableNativeFeedback",
-        "snippet": "TouchableNativeFeedback$1>\n</TouchableNativeFeedback>",
+        "snippet": "TouchableNativeFeedback>$1</TouchableNativeFeedback>",
         "type": "tag",
         "rightLabelHTML": "react-native"
       },
       {
         "displayText": "TouchableOpacity",
-        "snippet": "TouchableOpacity$1>\n</TouchableOpacity>",
+        "snippet": "TouchableOpacity>$1</TouchableOpacity>",
         "type": "tag",
         "rightLabelHTML": "react-native"
       },
       {
         "displayText": "TouchableWithoutFeedback",
-        "snippet": "TouchableWithoutFeedback$1>\n</TouchableWithoutFeedback>",
+        "snippet": "TouchableWithoutFeedback>$1</TouchableWithoutFeedback>",
         "type": "tag",
         "rightLabelHTML": "react-native"
       },
       {
         "displayText": "View",
-        "snippet": "View$1>\n</View>",
+        "snippet": "View>$1</View>",
         "type": "tag",
         "rightLabelHTML": "react-native"
       },
       {
         "displayText": "ViewPagerAndroid",
-        "snippet": "ViewPagerAndroid$1>\n</ViewPagerAndroid>",
+        "snippet": "ViewPagerAndroid>$1</ViewPagerAndroid>",
         "type": "tag",
         "rightLabelHTML": "react-native"
       },

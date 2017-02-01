@@ -7,7 +7,7 @@
         "react-native",
         "autocomplete"
     ],
-    "repository": "https://github.com/TOP-Chao/atom-react-native-autocomplete",
+    "repository": "https://github.com/phil714/atom-react-native-autocomplete",
     "license": "MIT",
     "engines": {
         "atom": ">=1.0.0 <2.0.0"

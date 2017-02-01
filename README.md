@@ -1,6 +1,6 @@
 # atom-react-native-autocomplete package
 
-React-Native autocompletion for Atom text editor! Only supports the suffix for `.js` and `.jsx` files. < /br>
+React-Native autocompletion for Atom text editor! Only supports the suffix for `.js` and `.jsx` files. <br />
 Forked from https://github.com/TOP-Chao/atom-react-native-autocomplete
 
 ## New features
